@@ -1,0 +1,60 @@
+table{
+  margin-left: auto; 
+  margin-right: auto;
+}
+
+body {
+  margin: 0;
+  background-color: #cefad0;
+}
+
+.time{
+  height: 40px;
+}
+
+td {
+  display: inline-block;
+  margin: 50px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  font-weight: bold;
+  font-size: 30px;
+  text-align: center;
+  background-color: white;
+}
+
+td:hover {
+  box-shadow: 0 16px 16px 0 rgba(0,0,0,0.2);
+}
+
+.videoBtn{
+  margin-bottom:50px;
+  padding: 15px;
+  border-radius: 12px;
+  border: none;
+  font-size: 15px;
+  background-color: #fafafa;
+}
+
+.videoBtn:hover{
+  cursor: pointer;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.1s;
+  border: 2px solid green;
+  color: green;
+  font-weight: bold;
+}
+
+@media only screen and (max-width: 1110px){
+  .js, .css, .html, .C, .Cpp, .CSHARP, .Kotlin, .Swift, .Java, .Python, .SQL, .Solidity{
+    width: 200px;
+    height: auto;
+    padding: 20px;
+  }
+}
+
+.js, .css, .html, .C, .Cpp, .CSHARP, .Kotlin, .Swift, .Java, .Python, .SQL, .Solidity{
+  width: 300px;
+  height: auto;
+  padding: 20px;
+}
