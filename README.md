@@ -2,7 +2,7 @@
 
 Submitted by: **Nour Siwar**
 
-This web app: **This Board Community provides different resourcesfor beginners to learn coding on different languages using videos from FreeCodeCamp organization.**
+This web app: **This Board Community provides different resources for beginners to learn coding on different languages using videos from FreeCodeCamp organization.**
 
 Time spent: **6** hours spent in total
 
